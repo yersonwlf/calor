@@ -1,5 +1,5 @@
 # SIMULACIÓN DE TRANSFERENCIA DE CALOR
-:tw-1f4cc: Software utilizados:
+Software utilizados:
 - **AutoCAD**
 - **Gmsh**
 - **VirtualBox**
