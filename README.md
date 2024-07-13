@@ -1,11 +1,13 @@
 # SIMULACIÓN DE TRANSFERENCIA DE CALOR
 Software utilizados en Microsoft Windows:
-- **AutoCAD**
-- **Gmsh**
-- **VirtualBox**
-- **Ubuntu**
-- **FEniCS**
-- **ParaView**
+Método A  | Método B
+------------- | -------------
+AutoCAD  | AutoCAD
+Gmsh  | Gmsh 
+VirtualBox  | Google Colab
+Ubuntu  | FEniCS
+FEniCS  | ParaView
+ParaView  | - 
 
 ## COPA DE CRISTAL
 Se realizó la simulación de transferencia de calor del vino tinto hacia la copa de cristal, para ello se utilizó el lenguaje de programación **Python**.
