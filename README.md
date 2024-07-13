@@ -1,5 +1,5 @@
 # SIMULACIÓN DE TRANSFERENCIA DE CALOR
-Software utilizados:
+Software utilizados en Microsoft Windows:
 - **AutoCAD**
 - **Gmsh**
 - **VirtualBox**
